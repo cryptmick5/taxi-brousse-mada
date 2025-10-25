@@ -1,0 +1,24 @@
+{
+  "name": "Calculateur Taxi-Brousse Madagascar",
+  "short_name": "Taxi-Brousse",
+  "description": "Calculateur de prix pour les taxi-brousses à Madagascar avec taux de change en temps réel",
+  "start_url": "./calculateur-taxi-brousse-PWA.html",
+  "display": "standalone",
+  "background_color": "#F5E6D3",
+  "theme_color": "#007E3A",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
